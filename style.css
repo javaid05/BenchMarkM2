@@ -108,3 +108,29 @@ img.card-image-top {
 .purple-text {
   color: purple;
 }
+
+/*  footer */
+.social-icons {
+  font-size: 1.25rem;
+}
+.links-area a {
+  color: #fff;
+  margin: 0 0.25rem;
+}
+.important-links a {
+  color: rgb(109, 109, 109);
+  margin: 0 0.5rem;
+}
+.second-row {
+  background-color: #3f3f3f;
+}
+ul.languages li,
+ul.currency li {
+  list-style: none;
+  margin: 0 0.5rem;
+}
+
+ul.languages li.selected,
+ul.currency li.selected {
+  color: #ff02ff;
+}
