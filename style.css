@@ -1,0 +1,13 @@
+.logo {
+  height: 25px;
+}
+.johnson {
+  height: 20px;
+}
+.user-img {
+  border-radius: 50%;
+}
+.user-account span {
+  font-style: normal;
+  margin-left: 0.2rem;
+}
