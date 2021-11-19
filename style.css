@@ -109,6 +109,34 @@ img.card-image-top {
   color: purple;
 }
 
+.old-card-price,
+.discount-percentage,
+.card-price {
+  position: absolute;
+}
+
+.card-price {
+  right: 10%;
+}
+
+.old-card-price {
+  bottom: 100%;
+  right: 10%;
+  font-size: 0.6rem;
+  text-decoration: line-through;
+  color: #c5c3c3;
+}
+
+.discount-percentage {
+  bottom: 0;
+  left: -20%;
+  background-color: purple;
+  border-radius: 2px;
+  color: white;
+  font-size: 1.1rem;
+  padding: 4px 11px;
+}
+
 /*  footer */
 .social-icons {
   font-size: 1.25rem;
