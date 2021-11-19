@@ -93,3 +93,14 @@ img.card-image-top {
 .card-price {
   right: 10%;
 }
+
+.my-spinner {
+  height: 30px;
+  width: 30px;
+  border: 6px solid purple;
+  border-radius: 50%;
+}
+
+.purple-text {
+  color: purple;
+}
